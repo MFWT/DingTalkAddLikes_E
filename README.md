@@ -3,6 +3,8 @@
 
 **内卷时代的产物**
 
+## 注意：根据网友反映，接口大概率已失效，所以本软件一并失效
+
 ## 使用方法
 ### 太长不看版
 1.用Fiddler或者别的什么工具，获取直播间UUID（https://hd.mmstat.com/taobaolive.video.x  GET请求参数中LiveUuid的值）  
